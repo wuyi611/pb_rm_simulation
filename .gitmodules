@@ -1,11 +1,11 @@
 [submodule "src/rm_driver/livox_ros_driver2"]
 	path = src/rm_driver/livox_ros_driver2
 	url = https://github.com/Livox-SDK/livox_ros_driver2.git
-	branch = main
+	branch = master
 [submodule "src/rm_localization/FAST_LIO"]
 	path = src/rm_localization/FAST_LIO
 	url = https://github.com/hku-mars/FAST_LIO.git
-	branch = master
+	branch = ROS2
 [submodule "src/rm_localization/point_lio"]
 	path = src/rm_localization/point_lio
 	url = https://github.com/hku-mars/Point-LIO.git
@@ -17,4 +17,4 @@
 [submodule "src/rm_navigation/teb_local_planner"]
 	path = src/rm_navigation/teb_local_planner
 	url = https://github.com/rst-tu-dortmund/teb_local_planner.git
-	branch = ros2
+	branch = ros2-master
